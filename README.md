@@ -1,2 +1,0 @@
-# valores
-Grocery-delivery service
